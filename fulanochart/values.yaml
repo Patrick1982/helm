@@ -12,7 +12,7 @@ image:
 
 imagePullSecrets: []
 nameOverride: ""
-fullnameOverride: ""
+fullnameOverride: "payment-service"
 
 serviceAccount:
   # Specifies whether a service account should be created

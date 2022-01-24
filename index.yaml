@@ -3,7 +3,17 @@ entries:
   fulanochart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-01-24T15:18:17.304839-03:00"
+    created: "2022-01-24T16:16:13.684406-03:00"
+    description: A Helm chart for Kubernetes
+    digest: 10edd03784946f8eb5b1e03e97e4cb851d8283ff95415c4e9a92814ab56b56d1
+    name: fulanochart
+    type: application
+    urls:
+    - fulanochart-0.4.0.tgz
+    version: 0.4.0
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-01-24T16:16:13.686753-03:00"
     description: A Helm chart for Kubernetes
     digest: efd591d1a75b5e8897e5ba0debbdcd5770b94985a2ca6518ec243e22d8eb2231
     name: fulanochart
@@ -13,7 +23,7 @@ entries:
     version: 0.3.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-01-24T15:18:17.304366-03:00"
+    created: "2022-01-24T16:16:13.685359-03:00"
     description: A Helm chart for Kubernetes
     digest: 918f1cb48d1c94f821de431b674a4e434fa17e05aa920490d7e3026edab8966e
     name: fulanochart
@@ -23,7 +33,7 @@ entries:
     version: 0.2.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-01-24T15:18:17.303973-03:00"
+    created: "2022-01-24T16:16:13.684942-03:00"
     description: A Helm chart for Kubernetes
     digest: 1b64db12c0d80cf72d7fea3c8b88d8c9d3f76f879cbaad3541786f1a1c4a91d9
     name: fulanochart
@@ -31,4 +41,4 @@ entries:
     urls:
     - charts/fulanochart-0.1.0.tgz
     version: 0.1.0
-generated: "2022-01-24T15:18:17.303201-03:00"
+generated: "2022-01-24T16:16:13.683858-03:00"
